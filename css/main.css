@@ -23,8 +23,8 @@ body,textarea,input{
 }
 .chat-textarea{
     min-width: 100%;
-    min-height: 10px;
     max-width: 100%;
+    min-height: 40px;
     padding: 10px;
 }
 .chat-status{
